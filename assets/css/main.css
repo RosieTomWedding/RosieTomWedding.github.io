@@ -205,7 +205,7 @@ input, select, textarea {
 	}
 
 	header {
-		margin: 0 0 3em 0;
+		margin: 1em 0 1em 0;
 	}
 
 		header > p {
@@ -475,12 +475,11 @@ input, select, textarea {
 				}
 
 		.row {
-			margin-top: -25px;
-			margin-left: -25px;
+			margin-top: -0.5em;
 		}
 
 			.row > * {
-				padding: 25px 0 0 25px;
+				padding: 0 0 0 0;
 			}
 
 			.row.gtr-uniform {
@@ -718,12 +717,11 @@ input, select, textarea {
 						}
 
 				.row {
-					margin-top: -25px;
-					margin-left: -25px;
+					margin-top: -0.5em;
 				}
 
 					.row > * {
-						padding: 25px 0 0 25px;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-uniform {
@@ -963,12 +961,11 @@ input, select, textarea {
 						}
 
 				.row {
-					margin-top: -25px;
-					margin-left: -25px;
+					margin-top: -0.5em;
 				}
 
 					.row > * {
-						padding: 25px 0 0 25px;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-uniform {
@@ -1208,12 +1205,11 @@ input, select, textarea {
 						}
 
 				.row {
-					margin-top: -25px;
-					margin-left: -25px;
+					margin-top: -0.5em;
 				}
 
 					.row > * {
-						padding: 25px 0 0 25px;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-uniform {
@@ -1453,12 +1449,11 @@ input, select, textarea {
 						}
 
 				.row {
-					margin-top: -15px;
-					margin-left: -15px;
+					margin-top: -0.5em;
 				}
 
 					.row > * {
-						padding: 25px 0 0 25px;
+						padding: 0 0 0 0;
 					}
 
 					.row.gtr-uniform {
@@ -2110,8 +2105,8 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 10em 0 10em 0;
-		text-align: left;
+		padding: 2em 0;
+		text-align: center;
 	}
 
 		#top .image {
@@ -2126,7 +2121,7 @@ input, select, textarea {
 			}
 
 		#top h1 {
-			margin-top: 0.35em;
+			margin-top: 0.75em;
 		}
 
 		#top p {
@@ -2195,7 +2190,7 @@ input, select, textarea {
 			}
 
 			header {
-				margin: 0 0 1em 1em;
+				margin: 1em 0 1em o;
 			}
 
 		/* Wrappers */
@@ -2213,7 +2208,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-				padding: 8em 0;
+				padding: 2em 0;
 			}
 
 				#top .image {
@@ -2232,7 +2227,7 @@ input, select, textarea {
 
 			#top {
 				text-align: center;
-				padding: 5em 0;
+				padding: 2em 0;
 			}
 
 				#top .image {
@@ -2268,7 +2263,7 @@ input, select, textarea {
 			}
 
 			header {
-				margin: 0 0 2em 0;
+				margin: 1em 0 1em 0;
 			}
 
 				header > p {
@@ -2411,7 +2406,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-				padding: 3em 0;
+				padding: 2em 0;
 			}
 
 				#top .image {
