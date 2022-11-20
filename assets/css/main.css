@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #888;
+		color: #464646;
 		font-weight: 300;
 		font-size: 13pt;
 	}
@@ -1993,7 +1993,7 @@ input, select, textarea {
 		text-align: center;
 	}
 		.wrapper.style5 {
-			background-image: linear-gradient(to top right, #738CF3, #CB66F2);
+			background-image: linear-gradient(to bottom left, #738CF3, #CB66F2);
 			background-repeat: no-repeat;
 			background-size: cover;
 		}
