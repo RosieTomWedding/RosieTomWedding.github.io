@@ -1458,7 +1458,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 15px 0 0 15px;
+						padding: 25px 0 0 25px;
 					}
 
 					.row.gtr-uniform {
@@ -2195,7 +2195,7 @@ input, select, textarea {
 			}
 
 			header {
-				margin: 0 0 4em 0;
+				margin: 0 0 1em 1em;
 			}
 
 		/* Wrappers */
@@ -2236,7 +2236,7 @@ input, select, textarea {
 			}
 
 				#top .image {
-					margin: 0 auto 2em auto;
+					margin: 0 auto 0 auto;
 				}
 
 	}
