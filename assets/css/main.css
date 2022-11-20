@@ -1992,6 +1992,11 @@ input, select, textarea {
 		padding: 8em 0 8em 0;
 		text-align: center;
 	}
+		.wrapper.style5{
+			background-image: url("images/pic00.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
 
 		.wrapper.style1 {
 			background-image: none;
