@@ -1992,8 +1992,8 @@ input, select, textarea {
 		padding: 8em 0 8em 0;
 		text-align: center;
 	}
-		.wrapper.style5{
-			background-image: url("images/pic00.jpg");
+		.wrapper.style5 {
+			background-image: linear-gradient(to top right, #738CF3, #CB66F2);
 			background-repeat: no-repeat;
 			background-size: cover;
 		}
